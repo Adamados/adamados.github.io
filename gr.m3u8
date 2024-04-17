@@ -27,21 +27,15 @@ http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 http://push-int.siliconweb.com/one/stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="action24" tvg-logo="https://i.imgur.com/hNvAHzt.jpg",ACTION 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="alfa" tvg-logo="https://i.imgur.com/HeqjCJC.png",ALFA 
-https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="starttv" tvg-logo="https://i.imgur.com/wPw9Qzd.png",START TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/n7sroRH.png",NAFTEMPORIKΙ TV
 http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/PoVImve.png",RED MUSIC
 https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/YhwbcwE.png",GREEK TV LONDON
-https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="ertsports" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 
 http://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-name="" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 F1
 https://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",MAD WORLD
 https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",ERT MUSIC
-http://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
