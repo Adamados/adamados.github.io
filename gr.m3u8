@@ -209,79 +209,12 @@ http://65.108.62.57:8080/live/greektv1.m3u8
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/svYeIxR.png",PEMPTOUSIA TV
 https://svs.itworkscdn.net/pemptousialive/pemptousia.smil/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
-https://srv.streamserver.gr:3451/stream/play.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
-https://til.pp.ua:3262/live/nstv7live.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/8bjfYod.png",HELLENIC TV
-https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rovfMvn.jpg",ELLAS TV
-http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/6nNNRoS.png",ELLINIKOS FM
-https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3UTMBVx.jpg",TV FILOPOLI
-http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+
 #EXTINF:-1 group-title="SPOR" tvg-name="ertsports" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 
 http://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 DRAMA
-https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 COMEDY
-https://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-name="" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 F1
 https://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",JUST MUSIC
-http://d2kbpjabp53obz.cloudfront.net/just_aws/abr/playlist.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/w4lIGYn.png",HORSE RACES
-https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",ARGOLIDA SPORT
-https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",MAD WORLD
 https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="",VILLAGE WORLD
-https://ellastvmax.better-than.tv/freetv/village-world/index.m3u8
-#EXTINF:-1 group-title="MUCIC" tvg-name="" tvg-logo="",LEVEL
-https://pro.free.hr:3464/live/l69plive.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",ERT MUSIC
 http://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-name="" tvg-logo="",ERT KIDS
-http://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/jwGfXtf.png",ASTRA TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Astra_TV.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="berginatv" tvg-logo="https://i.imgur.com/IUsn0jJ.png",BERGINA TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginatv_greece.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="lepanto" tvg-logo="https://i.imgur.com/qOtP5iO.png",LEPANTO
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/LePanto.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="thessaliatv" tvg-logo="https://i.imgur.com/HROWDIv.png",THESSALIA TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/thessaliatv.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="flashtv" tvg-logo="https://i.imgur.com/zBanIQw.png",FLASH TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/FlashTV.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="centertv" tvg-logo="https://i.imgur.com/DEumoIn.png",CENTER TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/centertv.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="kosmos" tvg-logo="https://i.imgur.com/dMavjyG.png",TV KOSMOS
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvkosmosgr.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="diontv" tvg-logo="https://i.imgur.com/dzAfWTc.png",DION TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/DionTvKentrikisMakedonias.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="starbe" tvg-logo="https://i.imgur.com/QyW9VCw.png",STAR B.E.
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvstarfm.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="kostv" tvg-logo="",KOS TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Kardamena_TV.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-name="tvrodopi" tvg-logo="https://i.imgur.com/tta5oFX.png", TV RODOPI
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/yYE1DB8.jpg",XTVSION
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/XTV.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="berginacy" tvg-logo="https://i.imgur.com/IUsn0jJ.png",BERGINA TV CY
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginatv_cyprus.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="starke" tvg-logo="https://i.imgur.com/kI5EYvR.png",STAR K.E.
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",EUROVISION CHANNEL
-http://ertflix.s.llnwi.net/ertlive/eurovision/default/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",EVRIPOS TV
-https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="",ON TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/On_Tv_Greece.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="",APOKALIPTIKA NEWS
-https://ythls.armelin.one/channel/UC87VDJvN0E-79sxrOUigEwg.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="",ORTHODOXIA
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Orthodoxia_Radio_TV.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="",DTP
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/DTP.m3u8
