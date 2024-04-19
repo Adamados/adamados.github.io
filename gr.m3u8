@@ -25,5 +25,5 @@ http://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
 http://push-int.siliconweb.com/one/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/n7sroRH.png",NAFTEMPORIKΙ TV
 http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://github.com/Adamados/adamados.github.io/blob/408004930c67d7a6297ffd5bbeebda7e8d9e9a01/logo/mad.png",MAD WORLD
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Adamados/adamados.github.io/0b1cb47ba119a82054cf3218e9c3ee17196cc4cf/logo/mad.png",MAD WORLD
 https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
