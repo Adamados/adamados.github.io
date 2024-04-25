@@ -15,10 +15,6 @@ http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:-1 tvg-name="open" tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN TV HD
 http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-name="onetv" tvg-logo="https://i.imgur.com/ts4qd1U.png",ONE
-http://push-int.siliconweb.com/one/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/n7sroRH.png",NAFTEMPORIKΙ TV
-http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1 tvg-name="MAD" tvg-logo="https://i.imgur.com/O7VoxSn.png",MAD WORLD
 https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
 #EXTINF:-1 tvg-name="ERT1.gr" tvg-logo="https://i.imgur.com/UKbCtC1.png",ERT1
