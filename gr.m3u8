@@ -23,5 +23,3 @@ http://88.99.254.101/ert1/mono.m3u8
 http://88.99.254.101/ert2/mono.m3u8
 #EXTINF:-1 tvg-name="ERT3.gr" tvg-logo="https://i.imgur.com/f2l9bDR.png",ERT3
 http://88.99.254.101/ert3/mono.m3u8
-#EXTINF:-1 tvg-name="index" tvg-logo="https://i.imgur.com/O7VoxSn.png",index
-https://ssh101-fl.bozztv.com/ssh101/galaxygr/index.m3u8
