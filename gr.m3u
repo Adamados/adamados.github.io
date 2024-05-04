@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://github.com/GreekTVApp/EPG-GRCY/releases/download/EPG/epg.xml.gz"
 #EXTINF:-1 tvg-id="4E.gr",4E (720p)
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="10Channel.gr",10 Channel (720p)
