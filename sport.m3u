@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные",Матч! Футбол 1 HD
+#EXTINF:-1 tvg-id="match-football1" group-title="Sport",Match 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные",Матч! Футбол 2 HD
+#EXTINF:-1 tvg-id="match-football1" group-title="Sport",Match 2 HD
 http://streaming.tv-teleport.ru/Match_Futbol_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные",Матч! Футбол 3 HD
+#EXTINF:-1 tvg-id="match-football1" group-title="Sport",Match 3 HD
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 ,ВСЕ ТВ 07.05.24 iptv.org.ua
 https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
